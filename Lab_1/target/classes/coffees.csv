@@ -1,0 +1,4 @@
+espresso:2,cups,water+0.25,cups,coffee-beans,roasted
+cappuccino:2,cups water+0.25,cups,coffee-beans,roasted+100,ml,milk,foamed
+americano:4,cups water+0.25,cups,coffee-beans,roasted
+turkish:1,cups,water+0.5,cups,coffee-beans
